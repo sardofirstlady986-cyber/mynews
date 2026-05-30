@@ -1,3 +1,4 @@
 fastapi
 uvicorn
 requests
+google-genai  # ◀ 최신 Google Gemini SDK 추가
